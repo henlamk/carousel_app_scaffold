@@ -1,0 +1,38 @@
+{
+    "posts": [
+        {
+            "title": "Tierheim Dachau",
+            "city": "Dachau",
+            "description": "Wir sammeln Hunde.",
+            "pitch": "Maximal ein zwei Zeiler, für Style.",
+            "imagePath": "https://picsum.photos/400/800",
+            "logoPath": "https://picsum.photos/75/75"
+        },
+        {
+            "title": "MGW Dachau",
+            "city": "Dachau",
+            "description": "Es gibt nicht vieles, was wir nicht tun, aber das, was wir tun, tun wir, weil wir es tun wollen.",
+            "pitch": "Maximal ein zwei Zeiler, für Style.",
+            "imagePath": "https://picsum.photos/400/800",
+            "logoPath": "https://picsum.photos/75/75"
+        },
+        {
+            "title": "Minigolf Karlsfeld",
+            "city": "Karlsfeld",
+            "description": "18 Löcher gibt es nicht überall.",
+            "pitch": "Maximal ein zwei Zeiler, für Style.",
+            "imagePath": "https://picsum.photos/400/800",
+            "logoPath": "https://picsum.photos/75/75"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
